@@ -1,0 +1,8 @@
+node_modules
+hooks
+platforms
+plugins
+res
+config.xml
+package.json
+.npmignore
