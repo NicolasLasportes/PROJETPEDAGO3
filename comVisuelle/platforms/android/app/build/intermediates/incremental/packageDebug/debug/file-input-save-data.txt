@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 12 14:03:20 CET 2018
+#Wed Dec 12 14:44:33 CET 2018
 38.path=www/node_modules/select2/dist/js/i18n/af.js
 429.baseType=DIRECTORY
 100.set=ASSET
